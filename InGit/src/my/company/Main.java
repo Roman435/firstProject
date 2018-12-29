@@ -7,5 +7,6 @@ public class Main {
 	System.out.println("Hi");
 	String h = justClass.Get();
 	System.out.println(h);
+	System.out.println(h + "hey");
     }
 }
